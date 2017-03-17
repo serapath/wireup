@@ -1,0 +1,19 @@
+{
+  "name": "wireup",
+  "version": "1.0.0",
+  "description": "run and wire up multiple processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/wireup.git"
+  },
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/wireup/issues"
+  },
+  "homepage": "https://github.com/serapath/wireup#readme"
+}
